@@ -4,11 +4,12 @@ A curated list of awesome Minestom libraries, resources, and open-source project
 
 Ported from [awesome-python](https://github.com/vinta/awesome-python).
 
-- [Awesome Minestom](#awesome-minestom)
+- [Awesome Minestom](#awesome-minestom-)
     - [Libraries](#libraries)
     - [Extensions](#extensions)
     - [Server Jars](#server-jars)
     - [Open Projects](#open-projects)
+    - [Servers](#servers)
 - [Resources](#resources)
     - [Websites](#websites)
 - [Contributing](#contributing)
@@ -65,6 +66,11 @@ Ported from [awesome-python](https://github.com/vinta/awesome-python).
 * [Doomstom](https://github.com/Peter-Crawley/Doomstom) - Port of Doom to Minestom.
 * [EnoidaPF](https://github.com/RinesThaix/EnodiaPF) - High performance voxel pathfinding implementation.
 * [BlockScreen](https://github.com/emortaldev/blockscreen) - Screensharing in Minecraft.
+
+## Servers
+
+*A list of servers that use Minestom.*
+- [EmortalMC](https://github.com/EmortalMC) - mc.emortal.dev
 
 # Resources
 
