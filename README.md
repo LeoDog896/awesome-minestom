@@ -60,7 +60,7 @@ Ported from [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Arena](https://github.com/Minestom/Arena) - A community server demonstrating Minestom's capabilities.
 * [EmortalMC](https://github.com/EmortalMC) - A minigames server focused on light-hearted fun.
-* [WynnLab](https://github.com/WynnLab/WynnLab-Minestom) - An attempt at remixing Wynncraft in a Minestom enviornment
+* [WynnLab](https://github.com/WynnLab/WynnLab-Minestom) - An attempt at remixing Wynncraft in a Minestom environment.
 * [Tower Defence](https://github.com/towerdefence-cc/tower-defence) - A tower defence game inspired by CubeCraft's Tower Defence and Bloons TD.
 * [Doomstom](https://github.com/Peter-Crawley/Doomstom) - Port of Doom to Minestom.
 * [EnoidaPF](https://github.com/RinesThaix/EnodiaPF) - High performance voxel pathfinding implementation.
