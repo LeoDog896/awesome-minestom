@@ -20,7 +20,6 @@ Ported from [awesome-python](https://github.com/vinta/awesome-python).
 
 *Reusable code that pairs very well with Minestom. If it offers extensions, it's side effect free to the limit of logging.*
 
-* [canvas](https://github.com/mworzala/canvas) - A Kotlin library for building reactive UIs.
 * [MineScreen](https://github.com/kiip1/MineScreen) - A Java library for simplifying UI development.
 * [hephaestus-engine](https://github.com/unnamed/hephaestus-engine) - Render, animate and interact with custom entity models.
 * [WorldSeedEntityEngine](https://github.com/WorldSeedGames/WorldSeedEntityEngine) - Straightforward multi-part entity construction.
