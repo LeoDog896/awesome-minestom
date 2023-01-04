@@ -64,6 +64,7 @@ Ported from [awesome-python](https://github.com/vinta/awesome-python).
 * [Tower Defence](https://github.com/towerdefence-cc/tower-defence) - A tower defence game inspired by CubeCraft's Tower Defence and Bloons TD.
 * [Doomstom](https://github.com/Peter-Crawley/Doomstom) - Port of Doom to Minestom.
 * [EnoidaPF](https://github.com/RinesThaix/EnodiaPF) - High performance voxel pathfinding implementation.
+* [BlockScreen](https://github.com/emortaldev/blockscreen) - Screensharing in Minecraft.
 
 # Resources
 
