@@ -26,10 +26,12 @@ Ported from [awesome-python](https://github.com/vinta/awesome-python).
 * [mc_debug_render](https://github.com/mworzala/mc_debug_renderer) - Draw arbitrary debug shapes on the client
 * [Orbis](https://github.com/AzortisCode/Orbis) - WIP extensible world generator.
 * [SlimeLoader](https://github.com/CatDevz/SlimeLoader) - Loader for the Slime world format.
+* [TNT](https://github.com/EmortalMC/TNT) - Experimental fast world format.
 * [ParticleEmitter](https://github.com/WorldSeedGames/ParticleEmitter) - Library for drawing particle effects with [Snowstorm](https://snowstorm.app/)
 * [RayFast](https://github.com/emortalmc/Rayfast) - A fast raycasting libary.
 * [Scaffolding](https://github.com/HyperaDev/Scaffolding) - Place and load schematics.
 * [NBStom](https://github.com/emortalmc/NBStom) - [NBS](https://opennbs.org/) reader and player.
+* [ImmuTables](https://github.com/GoldenStack/ImmuTables) - Loot table parser and loader.
 
 ## Extensions
 
