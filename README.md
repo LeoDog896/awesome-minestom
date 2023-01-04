@@ -25,7 +25,6 @@ Ported from [awesome-python](https://github.com/vinta/awesome-python).
 * [WorldSeedEntityEngine](https://github.com/WorldSeedGames/WorldSeedEntityEngine) - Straightforward multi-part entity construction.
 * [mc_debug_render](https://github.com/mworzala/mc_debug_renderer) - Draw arbitrary debug shapes on the client
 * [Orbis](https://github.com/AzortisCode/Orbis) - WIP extensible world generator.
-* [SlimeLoader](https://github.com/CatDevz/SlimeLoader) - Loader for the Slime world format.
 * [TNT](https://github.com/EmortalMC/TNT) - Experimental fast world format.
 * [ParticleEmitter](https://github.com/WorldSeedGames/ParticleEmitter) - Library for drawing particle effects with [Snowstorm](https://snowstorm.app/)
 * [RayFast](https://github.com/emortalmc/Rayfast) - A fast raycasting libary.
