@@ -71,6 +71,7 @@ Ported from [awesome-python](https://github.com/vinta/awesome-python).
 
 *A list of servers that use Minestom.*
 - [EmortalMC](https://github.com/EmortalMC) - mc.emortal.dev
+- [Arena](https://github.com/Minestom/Arena) - minestomarena.emortal.dev
 
 # Resources
 
