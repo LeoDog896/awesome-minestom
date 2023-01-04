@@ -2,7 +2,46 @@
 
 A curated list of awesome Minestom libraries, resources, and open-source projects.
 
-Ported from
+Ported from [awesome-python](https://github.com/vinta/awesome-python).
+
+- [Awesome Minestom](#awesome-minestom)
+    - [API Libraries](#api-libraries)
+    - [Extensions](#extensions)
+    - [Server Jars](#server-jar)
+    - [Open Projects](#open-projects)
+- [Resources](#resources)
+    - [Websites](#websites)
+- [Contributing](#contributing)
+
+---
+
+## API Libraries
+
+*Libraries that are either standalone or extensions with no invasive side-effects (at most logging)*
+
+* [canvas](https://github.com/mworzala/canvas) - The Kotlin library for building reactive UIs
+
+## Extensions
+
+*Minestom extensions with side-effects*
+
+## Server Jars
+
+*Pre-built jars that allow for server administrators to get a server up and running*
+
+* [Sabre](https://github.com/Project-Cepi/Sabre) - A customizable and simple server jar.
+
+## Open Projects
+
+*Minestom servers that are open-source and ready to contribute*
+
+* [EmortalMC](https://github.com/EmortalMC) - A minigames server focused on light-hearted fun.
+
+# Resources
+
+Where to discover learning resources or new Minestom gear.
+
+## Websites
 
 * Official Minestom Website: https://minestom.net
 
