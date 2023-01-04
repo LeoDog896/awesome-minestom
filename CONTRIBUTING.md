@@ -17,4 +17,4 @@ Your contributions are always welcome!
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
 
-Just a gentle reminder: **Try not to submit your own project. Instead, wait for someone finds it useful and submits it for you.**
+Just a gentle reminder: **Projects that are not generally used (1 star or less) will usually not be accepted unless for a good reason.**
