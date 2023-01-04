@@ -73,6 +73,7 @@ Where to discover learning resources or new Minestom gear.
 ## Websites
 
 * Official Minestom Website: https://minestom.net
+* Official Minestom Wiki: https://wiki.minestom.net/
 
 # Contributing
 
