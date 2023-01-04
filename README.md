@@ -51,6 +51,8 @@ Ported from [awesome-python](https://github.com/vinta/awesome-python).
 
 * [microstom](https://github.com/KlainStom/microstom) - A lightweight jar with only the smallest of defauts.
 * [Sabre](https://github.com/Project-Cepi/Sabre) - A customizable and simple server jar.
+* [BasicMinestomServer](https://github.com/Protonull/BasicMinestomServer) - Barebones extension-only server jar.
+* [MineMeeting](https://github.com/iceBear67/MineMeeting) - Quick throwaway no-trace servers for hosting meetings in Minecraft.
 
 ## Open Projects
 
