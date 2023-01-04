@@ -5,9 +5,9 @@ A curated list of awesome Minestom libraries, resources, and open-source project
 Ported from [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Awesome Minestom](#awesome-minestom)
-    - [API Libraries](#api-libraries)
+    - [Libraries](#libraries)
     - [Extensions](#extensions)
-    - [Server Jars](#server-jar)
+    - [Server Jars](#server-jars)
     - [Open Projects](#open-projects)
 - [Resources](#resources)
     - [Websites](#websites)
@@ -15,27 +15,36 @@ Ported from [awesome-python](https://github.com/vinta/awesome-python).
 
 ---
 
-## API Libraries
+## Libraries
 
-*Libraries that are either standalone or extensions with no invasive side-effects (at most logging)*
+*Reusable code that pairs very well with Minestom. If it offers extensions, it's side effect free to the limit of logging.*
 
 * [canvas](https://github.com/mworzala/canvas) - The Kotlin library for building reactive UIs
+* [Orbis](https://github.com/AzortisCode/Orbis) - WIP extensible world generator
 
 ## Extensions
 
-*Minestom extensions with side-effects*
+*Jars or libraries that integrate straight into Minestom. May also have programatic APIs or offer standalone versions.*
+
+* [UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics/) - Cross-compatible fully-featured metrics collection agent.
+* [Nightclub](https://github.com/dev-hydrogen/Nightclub) - An extensible in-minecraft light show
+* [MinestomPVP](https://github.com/TogAr2/MinestomPvP) - Implements PVP in your server.
+* [MinestomAirConditioner](https://github.com/LooFifteen/MinestomAirConditioner) - Anticheat that helps prevent blatant hacking.
 
 ## Server Jars
 
 *Pre-built jars that allow for server administrators to get a server up and running*
 
+* [microstom](https://github.com/KlainStom/microstom) - A lightweight jar with only the smallest of defauts.
 * [Sabre](https://github.com/Project-Cepi/Sabre) - A customizable and simple server jar.
 
 ## Open Projects
 
 *Minestom servers that are open-source and ready to contribute*
 
+* [Arena](https://github.com/Minestom/Arena) - A community server demonstrating Minestom's capabilities.
 * [EmortalMC](https://github.com/EmortalMC) - A minigames server focused on light-hearted fun.
+* [WynnLab](https://github.com/WynnLab/WynnLab-Minestom) - An attempt at remixing Wynncraft in a Minestom enviornment
 
 # Resources
 
