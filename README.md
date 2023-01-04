@@ -19,17 +19,29 @@ Ported from [awesome-python](https://github.com/vinta/awesome-python).
 
 *Reusable code that pairs very well with Minestom. If it offers extensions, it's side effect free to the limit of logging.*
 
-* [canvas](https://github.com/mworzala/canvas) - The Kotlin library for building reactive UIs
-* [Orbis](https://github.com/AzortisCode/Orbis) - WIP extensible world generator
+* [canvas](https://github.com/mworzala/canvas) - A Kotlin library for building reactive UIs.
+* [MineScreen](https://github.com/kiip1/MineScreen) - A Java library for simplifying UI development.
+* [hephaestus-engine](https://github.com/unnamed/hephaestus-engine) - Render, animate and interact with custom entity models.
+* [WorldSeedEntityEngine](https://github.com/WorldSeedGames/WorldSeedEntityEngine) - Straightforward multi-part entity construction.
+* [mc_debug_render](https://github.com/mworzala/mc_debug_renderer) - Draw arbitrary debug shapes on the client
+* [Orbis](https://github.com/AzortisCode/Orbis) - WIP extensible world generator.
+* [SlimeLoader](https://github.com/CatDevz/SlimeLoader) - Loader for the Slime world format.
+* [ParticleEmitter](https://github.com/WorldSeedGames/ParticleEmitter) - Library for drawing particle effects with [Snowstorm](https://snowstorm.app/)
+* [RayFast](https://github.com/emortalmc/Rayfast) - A fast raycasting libary.
+* [Scaffolding](https://github.com/HyperaDev/Scaffolding) - Place and load schematics.
+* [NBStom](https://github.com/emortalmc/NBStom) - [NBS](https://opennbs.org/) reader and player.
 
 ## Extensions
 
 *Jars or libraries that integrate straight into Minestom. May also have programatic APIs or offer standalone versions.*
 
+* [grakkit](https://github.com/grakkit/grakkit) - A modern JavaScript development environment for Minecraft.
 * [UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics/) - Cross-compatible fully-featured metrics collection agent.
-* [Nightclub](https://github.com/dev-hydrogen/Nightclub) - An extensible in-minecraft light show
-* [MinestomPVP](https://github.com/TogAr2/MinestomPvP) - Implements PVP in your server.
+* [Nightclub](https://github.com/dev-hydrogen/Nightclub) - An extensible in-minecraft light show.
+* [MinestomPVP](https://github.com/TogAr2/MinestomPvP) - Implement PVP in your server.
 * [MinestomAirConditioner](https://github.com/LooFifteen/MinestomAirConditioner) - Anticheat that helps prevent blatant hacking.
+* [BasicRedstone](https://github.com/TogAr2/BasicRedstone) - Basic redstone implementation
+* [MinestomFluids](https://github.com/TogAr2/MinestomFluids) - Fluid handling and implementation
 
 ## Server Jars
 
