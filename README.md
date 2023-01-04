@@ -56,7 +56,7 @@ Ported from [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Open Projects
 
-*Minestom servers that are open-source and ready to contribute*
+*Open-source minecraft projects -- whether they are servers or hostable minecraft jars.*
 
 * [Arena](https://github.com/Minestom/Arena) - A community server demonstrating Minestom's capabilities.
 * [EmortalMC](https://github.com/EmortalMC) - A minigames server focused on light-hearted fun.
