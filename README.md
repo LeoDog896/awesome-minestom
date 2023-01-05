@@ -67,8 +67,8 @@ Ported from [awesome-python](https://github.com/vinta/awesome-python).
 ## Servers
 
 *A list of servers that use Minestom.*
-- [EmortalMC](https://github.com/EmortalMC) - `mc.emortal.dev`
-- [Arena](https://github.com/Minestom/Arena) - `minestomarena.emortal.dev`
+- [EmortalMC](https://github.com/EmortalMC) - `mc.emortal.dev` v1.19.2
+- [Arena](https://github.com/Minestom/Arena) - `arena.minestom.net` v1.19.2
 - [Tower Defence](https://github.com/towerdefence-cc/tower-defence) - `towerdefence.cc`
 
 # Resources
