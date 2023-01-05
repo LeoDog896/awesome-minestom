@@ -64,6 +64,7 @@ Ported from [awesome-python](https://github.com/vinta/awesome-python).
 * [Doomstom](https://github.com/Peter-Crawley/Doomstom) - Port of Doom to Minestom.
 * [EnoidaPF](https://github.com/RinesThaix/EnodiaPF) - High performance voxel pathfinding implementation.
 * [BlockScreen](https://github.com/emortaldev/blockscreen) - Screensharing in Minecraft.
+* [FlexEGames](https://github.com/FlexEGames) - An extensible multi-game single-server jar.
 
 ## Servers
 
