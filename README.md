@@ -51,6 +51,7 @@ Ported from [awesome-python](https://github.com/vinta/awesome-python).
 * [Sabre](https://github.com/Project-Cepi/Sabre) - A customizable and simple server jar.
 * [BasicMinestomServer](https://github.com/Protonull/BasicMinestomServer) - Barebones extension-only server jar.
 * [MineMeeting](https://github.com/iceBear67/MineMeeting) - Quick throwaway no-trace servers for hosting meetings in Minecraft.
+* [VanillaReimplementation](https://github.com/Minestom/VanillaReimplementation) - Reimplementation of Vanilla features in Minestom (WIP)
 
 ## Open Projects
 
