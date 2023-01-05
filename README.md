@@ -43,9 +43,9 @@ Ported from [awesome-python](https://github.com/vinta/awesome-python).
 * [BasicRedstone](https://github.com/TogAr2/BasicRedstone) - Basic redstone implementation
 * [MinestomFluids](https://github.com/TogAr2/MinestomFluids) - Fluid handling and implementation
 
-## Server Jars
+## Implementations
 
-*Pre-built jars that allow for server administrators to get a server up and running*
+*Implementation of Minestom that allow for server administrators to get a server up and running*
 
 * [microstom](https://github.com/KlainStom/microstom) - A lightweight jar with only the smallest of defauts.
 * [Sabre](https://github.com/Project-Cepi/Sabre) - A customizable and simple server jar.
