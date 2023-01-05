@@ -30,7 +30,6 @@ Ported from [awesome-python](https://github.com/vinta/awesome-python).
 * [RayFast](https://github.com/emortalmc/Rayfast) - A fast raycasting libary.
 * [Scaffolding](https://github.com/HyperaDev/Scaffolding) - Place and load schematics.
 * [NBStom](https://github.com/emortalmc/NBStom) - [NBS](https://opennbs.org/) reader and player.
-* [ImmuTables](https://github.com/GoldenStack/ImmuTables) - Loot table parser and loader.
 
 ## Extensions
 
