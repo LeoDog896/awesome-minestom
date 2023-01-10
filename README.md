@@ -1,3 +1,6 @@
+![banner](media/banner_dark.png#gh-dark-mode-only)
+![banner](media/banner_light.png#gh-light-mode-only)
+
 # Awesome Minestom [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome Minestom libraries, resources, and open-source projects.
