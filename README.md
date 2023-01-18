@@ -1,12 +1,14 @@
 ![banner](media/banner_dark.png#gh-dark-mode-only)
 ![banner](media/banner_light.png#gh-light-mode-only)
 
-# Awesome Minestom [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Minestom
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome Minestom libraries, resources, and open-source projects.
 
 ## Contents
 
+<!-- no toc -->
 - [Libraries](#libraries)
 - [Extensions](#extensions)
 - [Implementations](#implementations)
@@ -43,6 +45,7 @@ A curated list of awesome Minestom libraries, resources, and open-source project
 - [MinestomAirConditioner](https://github.com/LooFifteen/MinestomAirConditioner) - Anticheat that helps prevent blatant hacking.
 - [BasicRedstone](https://github.com/TogAr2/BasicRedstone) - Basic redstone implementation.
 - [MinestomFluids](https://github.com/TogAr2/MinestomFluids) - Fluid handling and implementation.
+- [Minesumo](https://github.com/GoldenGamerLP/Minesumo) - A sumo extension with stats.
 
 ## Implementations
 
