@@ -31,6 +31,7 @@ A curated list of awesome Minestom libraries, resources, and open-source project
 - [RayFast](https://github.com/emortalmc/Rayfast) - A fast raycasting libary.
 - [Scaffolding](https://github.com/HyperaDev/Scaffolding) - Place and load schematics.
 - [NBStom](https://github.com/emortalmc/NBStom) - [NBS](https://opennbs.org/) reader and player.
+- [EnoidaPF](https://github.com/RinesThaix/EnodiaPF) - High performance voxel pathfinding implementation.
 
 ## Extensions
 
@@ -40,7 +41,7 @@ A curated list of awesome Minestom libraries, resources, and open-source project
 - [UnifiedMetrics](https://github.com/Cubxity/UnifiedMetrics/) - Cross-compatible fully-featured metrics collection agent.
 - [Nightclub](https://github.com/dev-hydrogen/Nightclub) - An extensible in-minecraft light show.
 - [MinestomPVP](https://github.com/TogAr2/MinestomPvP) - Implement PVP in your server.
-- [MinestomAirConditioner](https://github.com/LooFifteen/MinestomAirConditioner) - Anticheat that helps prevent blatant hacking.
+- [MinestomAirConditioner](https://github.com/LooFifteen/MinestomAirConditioner) - Anticheat that prevents blatant hacking.
 - [BasicRedstone](https://github.com/TogAr2/BasicRedstone) - Basic redstone implementation.
 - [MinestomFluids](https://github.com/TogAr2/MinestomFluids) - Fluid handling and implementation.
 - [Minesumo](https://github.com/GoldenGamerLP/Minesumo) - A sumo extension with stats.
@@ -62,7 +63,6 @@ A curated list of awesome Minestom libraries, resources, and open-source project
 - [WynnLab](https://github.com/WynnLab/WynnLab-Minestom) - An attempt at remixing Wynncraft in a Minestom enviornment.
 - [Tower Defence](https://github.com/towerdefence-cc/tower-defence) - A tower defence game inspired by CubeCraft's Tower Defence and Bloons TD.
 - [Doomstom](https://github.com/Peter-Crawley/Doomstom) - Port of Doom to Minestom.
-- [EnoidaPF](https://github.com/RinesThaix/EnodiaPF) - High performance voxel pathfinding implementation.
 - [BlockScreen](https://github.com/emortaldev/blockscreen) - Screensharing in Minecraft.
 - [FlexEGames](https://github.com/FlexEGames) - An extensible multi-game single-server jar.
 
