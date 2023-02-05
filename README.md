@@ -14,7 +14,6 @@ A curated list of awesome Minestom libraries, resources, and open-source project
 - [Implementations](#implementations)
 - [Open Projects](#open-projects)
 - [Servers](#servers)
-- [Resources](#resources)
 - [Websites](#websites)
 
 ---
@@ -73,10 +72,6 @@ A curated list of awesome Minestom libraries, resources, and open-source project
 *A list of servers that use Minestom.*
 - [EmortalMC](https://github.com/EmortalMC) - A minigames server focused on light-hearted fun. IP: `mc.emortal.dev`. Version: `1.19.2`.
 - [Arena](https://github.com/Minestom/Arena) - A community server demonstrating Minestom's capabilities. IP:  `arena.minestom.net` Version: `1.19.2`.
-
-## Resources
-
-Where to discover learning resources or new Minestom gear.
 
 ## Websites
 
