@@ -1,5 +1,6 @@
-![banner](media/banner_dark.png#gh-dark-mode-only)
-![banner](media/banner_light.png#gh-light-mode-only)
+<!-- lint ignore double-link -->
+[![banner](media/banner_dark.png#gh-dark-mode-only)](https://minestom.net)
+[![banner](media/banner_light.png#gh-light-mode-only)](https://minestom.net)
 # Awesome Minestom [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome Minestom libraries, resources, and open-source projects.
@@ -12,7 +13,7 @@ A curated list of awesome Minestom libraries, resources, and open-source project
 - [Implementations](#implementations)
 - [Open Projects](#open-projects)
 - [Servers](#servers)
-- [Websites](#websites)
+- [Resources](#resources)
 
 ---
 
@@ -59,7 +60,7 @@ A curated list of awesome Minestom libraries, resources, and open-source project
 
 *Open-source minecraft projects -- projects without an available hosted instance.*
 
-- [WynnLab](https://github.com/WynnLab/WynnLab-Minestom) - An attempt at remixing Wynncraft in a Minestom enviornment.
+- [WynnLab](https://github.com/WynnLab/WynnLab-Minestom) - An attempt at remixing Wynncraft in a Minestom environment.
 - [Tower Defence](https://github.com/towerdefence-cc/tower-defence) - A tower defence game inspired by CubeCraft's Tower Defence and Bloons TD.
 - [Doomstom](https://github.com/Peter-Crawley/Doomstom) - Port of Doom to Minestom.
 - [BlockScreen](https://github.com/emortaldev/blockscreen) - Screensharing in Minecraft.
@@ -71,10 +72,9 @@ A curated list of awesome Minestom libraries, resources, and open-source project
 - [EmortalMC](https://github.com/EmortalMC) - A minigames server focused on light-hearted fun. IP: `mc.emortal.dev`. Version: `1.19.2`.
 - [Arena](https://github.com/Minestom/Arena) - A community server demonstrating Minestom's capabilities. IP:  `arena.minestom.net` Version: `1.19.2`.
 
-## Websites
+## Resources
 
-- Official Minestom Website: https://minestom.net
-- Official Minestom Wiki: https://wiki.minestom.net/
+- [Official Minestom wiki](https://wiki.minestom.net)
 
 ## Contributing
 
