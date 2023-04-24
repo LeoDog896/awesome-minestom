@@ -1,6 +1,9 @@
 <!-- lint ignore double-link -->
-[![banner](media/banner_dark.png#gh-dark-mode-only)](https://minestom.net)
-[![banner](media/banner_light.png#gh-light-mode-only)](https://minestom.net)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./media/banner_dark.png">
+  <img alt="banner" src="./media/banner_light.png">
+</picture>
+
 # Awesome Minestom [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome Minestom libraries, resources, and open-source projects.
