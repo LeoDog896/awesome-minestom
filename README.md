@@ -1,8 +1,10 @@
 <!-- lint ignore double-link -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./media/banner_dark.png">
-  <img alt="banner" src="./media/banner_light.png">
-</picture>
+<a href="https://minestom.net">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./media/banner_dark.png">
+    <img alt="banner" src="./media/banner_light.png">
+  </picture>
+</a>
 
 # Awesome Minestom [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
