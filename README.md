@@ -10,6 +10,8 @@
 
 A curated list of awesome Minestom libraries, resources, and open-source projects.
 
+Minestom is an open-source library that enables developers to create their own Minecraft server software, void of any Mojang code.
+
 ## Contents
 
 <!-- no toc -->
